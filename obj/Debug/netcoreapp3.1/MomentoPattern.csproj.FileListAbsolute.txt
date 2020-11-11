@@ -1,0 +1,13 @@
+/media/fawzy/Data/CS/Study/Practises/Design Patterns/MomentoPattern/bin/Debug/netcoreapp3.1/MomentoPattern
+/media/fawzy/Data/CS/Study/Practises/Design Patterns/MomentoPattern/bin/Debug/netcoreapp3.1/MomentoPattern.deps.json
+/media/fawzy/Data/CS/Study/Practises/Design Patterns/MomentoPattern/bin/Debug/netcoreapp3.1/MomentoPattern.runtimeconfig.json
+/media/fawzy/Data/CS/Study/Practises/Design Patterns/MomentoPattern/bin/Debug/netcoreapp3.1/MomentoPattern.runtimeconfig.dev.json
+/media/fawzy/Data/CS/Study/Practises/Design Patterns/MomentoPattern/bin/Debug/netcoreapp3.1/MomentoPattern.dll
+/media/fawzy/Data/CS/Study/Practises/Design Patterns/MomentoPattern/bin/Debug/netcoreapp3.1/MomentoPattern.pdb
+/media/fawzy/Data/CS/Study/Practises/Design Patterns/MomentoPattern/obj/Debug/netcoreapp3.1/MomentoPattern.csprojAssemblyReference.cache
+/media/fawzy/Data/CS/Study/Practises/Design Patterns/MomentoPattern/obj/Debug/netcoreapp3.1/MomentoPattern.AssemblyInfoInputs.cache
+/media/fawzy/Data/CS/Study/Practises/Design Patterns/MomentoPattern/obj/Debug/netcoreapp3.1/MomentoPattern.AssemblyInfo.cs
+/media/fawzy/Data/CS/Study/Practises/Design Patterns/MomentoPattern/obj/Debug/netcoreapp3.1/MomentoPattern.csproj.CoreCompileInputs.cache
+/media/fawzy/Data/CS/Study/Practises/Design Patterns/MomentoPattern/obj/Debug/netcoreapp3.1/MomentoPattern.dll
+/media/fawzy/Data/CS/Study/Practises/Design Patterns/MomentoPattern/obj/Debug/netcoreapp3.1/MomentoPattern.pdb
+/media/fawzy/Data/CS/Study/Practises/Design Patterns/MomentoPattern/obj/Debug/netcoreapp3.1/MomentoPattern.genruntimeconfig.cache
